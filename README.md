@@ -1,2 +1,2 @@
-# lighthouse-js-fundamentals.
+# lighthouse-js-fundamentals
 Prep Course work
